@@ -1,0 +1,6 @@
+{
+  "name": "QUYK BD — প্রিমিয়াম স্নিকার্স স্টোর",
+  "description": "বাংলাদেশের প্রিমিয়াম মনোক্লোম স্নিকার্স ব্র্যান্ড QUYK BD-এর অফিসিয়াল অনলাইন স্টোর। সাইজ ৪০–৪৪, BDT মূল্য এবং সরাসরি হোয়াটসঅ্যাপ অর্ডারের সুবিধা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
